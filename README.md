@@ -1,8 +1,7 @@
 # Linear Regression
 
-In this project, I work with insurance data set to predict the losses by performing linear regression on this dataset.
+In this repository, I work with insurance data set to predict the losses by performing linear regression on this dataset. Shown below is a brief description of the variables used:
 
-The variables in this dataset are:-
 Policy_Num      : Policy Number
 Age             : Age of the driver
 Years_Drv_Exp   : Number of years of driving experience
