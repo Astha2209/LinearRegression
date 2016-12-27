@@ -12,5 +12,6 @@ Vehicle_Age     : Age of the Vehicle
 Fuel_Type       : Gas or Diesel
 Losses          : Losses occurred 
 
+I use R to build a prediction model to predict the losses for the insurance company.
 
 
